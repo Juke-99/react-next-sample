@@ -6655,7 +6655,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "/Applications/react-sample/react-next/.next");
+      source_map_support_1.rewriteStacktrace(error, "D:\\react-samples2\\react-next\\react-next-sample\\.next");
       return error;
     }
   };
