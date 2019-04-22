@@ -6,6 +6,10 @@ const Linker = () => (
 			<a>About Page</a>
 		</Link>
 
+		<Link href="/about">
+			<button>Go to About Page</button>
+		</Link>
+
 		<p>Hello there!!</p>
 	</div>
 )
